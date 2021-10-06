@@ -37,7 +37,7 @@
 
 <div align="center">
   
-(![Snake animation](https://github.com/rodzhttp/rodzhttp/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rodzhttp/rodzhttp/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
