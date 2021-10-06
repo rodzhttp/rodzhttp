@@ -35,6 +35,10 @@
 
 <hr>
 
- ![Snake animation](https://github.com/rodzhttp)
- 
- <hr>
+<div align="center">
+  
+(![Snake animation](https://github.com/rodzhttp/rodzhttp/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<hr>
