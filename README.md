@@ -33,11 +33,11 @@
 <a href="https://www.instagram.com/rodzsk8" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<hr>
+<!-- <hr> -->
 
 <div align="center">
   
-![Snake animation](https://github.com/rodzhttp/rodzhttp/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/rodzhttp/rodzhttp/blob/output/github-contribution-grid-snake.svg) -->
   
 </div>
 
