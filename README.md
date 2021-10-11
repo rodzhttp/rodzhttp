@@ -6,7 +6,6 @@
 < cursando Análise e Desenvolvimento de Sistemas 💻 > <br>
 < estudando Javascript 🌎 > <br>
 < fascinado por tecnologia 🚀 > <br>
-< skatista amador 🔥 >
 
 <hr>
 
