@@ -3,8 +3,8 @@
 <hr>
 
 < me chamo Rodrigo Sousa 😀 > <br>
-< cursando Análise e Desenvolvimento de Sistemas 💻 > <br>
-< estudando React Native 🌎 > <br>
+< formado em Análise e Desenvolvimento de Sistemas 💻 > <br>
+< ex-programador > <br>
 < fascinado por tecnologia 🚀 > <br>
 
 <hr>
