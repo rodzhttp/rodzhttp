@@ -1,6 +1,5 @@
 ### Olá! :)
 
-< me chamo Rodrigo Sousa 😀 > <br>
 < futuro cientista de dados 🧩 > <br>
 < formado em Análise e Desenvolvimento de Sistemas 💻 > <br>
 < fascinado por tecnologia 🚀 > <br>
