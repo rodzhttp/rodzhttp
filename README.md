@@ -1,7 +1,8 @@
 Olá! :)
-< Futuro cientista de dados 🧩 >
-< Formado em Análise e Desenvolvimento de Sistemas 💻 >
-< Fascinado por tecnologia 🚀 >
+
+< Futuro engenheiro de dados 🧩 > <br>
+< Formado em Análise e Desenvolvimento de Sistemas 💻 > <br>
+< Fascinado por tecnologia 🚀 > <br>
 
 Sou resiliente, analítico e proativo — movido pela curiosidade e pelo desejo de criar soluções através da tecnologia.
 Acredito que a combinação entre dados e atitude transforma desafios em oportunidades reais.
